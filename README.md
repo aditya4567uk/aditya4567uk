@@ -93,10 +93,10 @@ Idea_Execution   6 mins        █████▓░░░░░░░░░░�
     <tbody>
         <tr>
             <td rowspan="7" width="600px"><img src="https://github.com/aditya4567uk/aditya4567uk/blob/main/code-routine.png"/></td>
-            <td>⚽ Football</td>
+            <td>⚽ Gaming</td>
         </tr>     
         <tr>
-            <td>🎿 Ski</td>
+            <td>🎿 Reading self help books</td>
         </tr>     
         <tr>
             <td>🏃‍♂️ Running</td>
@@ -105,7 +105,7 @@ Idea_Execution   6 mins        █████▓░░░░░░░░░░�
             <td>⛰️ Trekking</td>
         </tr>        
         <tr>
-            <td>🏊‍♂️ Swimming</td>
+            <td>🏊‍♂️ cycling</td>
         </tr>        
         <tr>
             <td>🏍️ Riding</td>
