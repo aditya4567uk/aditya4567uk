@@ -53,7 +53,7 @@
 
 <br/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya4567uk&show_icons=true&locale=en&layout=compact" alt="aditya4567uk" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya4567uk&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%"></p>
 <br/>
 <br/>
 
